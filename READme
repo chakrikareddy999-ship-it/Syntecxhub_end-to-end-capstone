@@ -1,0 +1,29 @@
+# End-to-End Sales Data Analysis (Capstone Project)
+
+This project performs an end-to-end data analysis on a retail sales dataset.
+
+## Objectives
+- Clean and explore the dataset
+- Calculate key performance metrics
+- Perform exploratory data analysis
+- Visualize insights using charts
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Key Insights
+- Identified top performing sub-categories by sales
+- Analyzed distribution of sales values
+- Explored relationships between sales, profit, quantity and discount
+
+## Visualizations
+- Sales by Sub-Category
+- Top Sub-Categories by Sales
+- Sales Distribution
+- Correlation Heatmap
+
+## Project Structure
